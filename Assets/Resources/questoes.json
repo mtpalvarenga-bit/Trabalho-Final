@@ -1,0 +1,124 @@
+{
+  "questoes": [
+    {
+      "texto": "Porque é que o porquinho mais novo construiu a casa de palha?",
+      "opcoes": [
+        "Porque era a mais forte",
+        "Porque gostava da cor da palha",
+        "Porque era rápida de construir e sobrava tempo para brincar",
+        "Porque o lobo lhe disse para o fazer"
+      ],
+      "correta": 2
+    },
+    {
+      "texto": "O que aconteceu quando o lobo soprou a casa de palha?",
+      "opcoes": [
+        "A casa ficou maior",
+        "A casa voou e caiu",
+        "A casa transformou-se em madeira",
+        "Nada aconteceu"
+      ],
+      "correta": 1
+    },
+    {
+      "texto": "Para onde fugiu o porquinho mais novo depois da sua casa cair?",
+      "opcoes": [
+        "Para a floresta",
+        "Para a casa da mãe",
+        "Para a casa do irmão do meio",
+        "Para muito longe da aldeia"
+      ],
+      "correta": 2
+    },
+    {
+      "texto": "De que material era feita a casa do porquinho do meio?",
+      "opcoes": [
+        "Palha",
+        "Pedra",
+        "Madeira",
+        "Tijolos"
+      ],
+      "correta": 2
+    },
+    {
+      "texto": "Porque é que o porquinho do meio achava que a sua casa era uma boa escolha?",
+      "opcoes": [
+        "Porque era prática e resistente",
+        "Porque era muito alta",
+        "Porque não tinha portas",
+        "Porque o lobo não sabia soprar"
+      ],
+      "correta": 0
+    },
+    {
+      "texto": "O que fez o porquinho do meio quando o lobo derrubou a sua casa?",
+      "opcoes": [
+        "Ficou escondido",
+        "Fugiu sozinho",
+        "Foi brincar",
+        "Correu com o irmão para a casa do porquinho mais velho"
+      ],
+      "correta": 3
+    },
+    {
+      "texto": "Porque é que o porquinho mais velho construiu a casa de tijolos?",
+      "opcoes": [
+        "Porque era mais bonita",
+        "Porque queria acabar rápido",
+        "Porque queria uma casa forte e segura",
+        "Porque não gostava de madeira"
+      ],
+      "correta": 2
+    },
+    {
+      "texto": "O que aconteceu quando o lobo tentou derrubar a casa de tijolos?",
+      "opcoes": [
+        "A casa caiu",
+        "A casa abanou muito",
+        "A casa ficou mais pequena",
+        "A casa não caiu"
+      ],
+      "correta": 3
+    },
+    {
+      "texto": "Como é que o porquinho mais velho enganou o lobo?",
+      "opcoes": [
+        "Escondeu-se na floresta",
+        "Fechou todas as janelas",
+        "Colocou uma panela de água a ferver na lareira",
+        "Chamou a polícia"
+      ],
+      "correta": 2
+    },
+    {
+      "texto": "Porque é que o lobo foi às casas dos porquinhos?",
+      "opcoes": [
+        "Porque estava com frio",
+        "Porque queria ser amigo",
+        "Porque estava com fome",
+        "Porque se perdeu na floresta"
+      ],
+      "correta": 2
+    },
+    {
+      "texto": "O que tentou fazer o lobo quando não conseguiu entrar pela porta da casa de tijolos?",
+      "opcoes": [
+        "Bater mais forte",
+        "Ir embora",
+        "Entrar pela chaminé",
+        "Pedir ajuda"
+      ],
+      "correta": 2
+    },
+    {
+      "texto": "O que aconteceu ao lobo no final da história?",
+      "opcoes": [
+        "Ficou a viver com os porquinhos",
+        "Fugiu e nunca mais voltou",
+        "Derrubou a casa de tijolos",
+        "Dormiu na lareira"
+      ],
+      "correta": 1
+    }
+  ]
+}
